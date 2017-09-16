@@ -1,0 +1,1 @@
+Very simple code to connect to a Bluetooth Lightblue Bean pebble bot.
